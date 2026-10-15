@@ -1,0 +1,721 @@
+route,week_of,note_id,retrieval_score,accepted,reason
+Ahmedabad-Mumbai,2025-01-20,N002,0.4738,False,note has no supported date window
+Ahmedabad-Mumbai,2025-01-20,N005,0.1406,False,applies to a different route
+Ahmedabad-Mumbai,2025-01-20,N006,0.0756,False,"note effect is 'none', not a cost increase"
+Ahmedabad-Mumbai,2025-01-20,N008,0.0731,False,applies to a different route
+Ahmedabad-Mumbai,2025-01-20,N001,0.0,False,applies to a different route
+Ahmedabad-Mumbai,2025-01-20,N003,0.0,False,note window does not overlap this week
+Ahmedabad-Mumbai,2025-01-20,N004,0.0,False,note concerns routes outside this dataset
+Ahmedabad-Mumbai,2025-01-20,N007,0.0,False,applies to a different route
+Chennai-Bangalore,2024-06-17,N009,0.4691,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2024-06-17,N001,0.3709,False,note window does not overlap this week
+Chennai-Bangalore,2024-06-17,N006,0.0826,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2024-06-17,N008,0.0799,False,applies to a different route
+Chennai-Bangalore,2024-06-17,N002,0.0,False,applies to a different route
+Chennai-Bangalore,2024-06-17,N003,0.0,False,note window does not overlap this week
+Chennai-Bangalore,2024-06-17,N004,0.0,False,note concerns routes outside this dataset
+Chennai-Bangalore,2024-06-17,N005,0.0,False,applies to a different route
+Chennai-Bangalore,2024-07-29,N009,0.4691,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2024-07-29,N001,0.3709,False,note window does not overlap this week
+Chennai-Bangalore,2024-07-29,N006,0.0826,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2024-07-29,N008,0.0799,False,applies to a different route
+Chennai-Bangalore,2024-07-29,N002,0.0,False,applies to a different route
+Chennai-Bangalore,2024-07-29,N003,0.0,False,note window does not overlap this week
+Chennai-Bangalore,2024-07-29,N004,0.0,False,note concerns routes outside this dataset
+Chennai-Bangalore,2024-07-29,N005,0.0,False,applies to a different route
+Chennai-Bangalore,2024-08-12,N009,0.4691,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2024-08-12,N001,0.3709,False,note window does not overlap this week
+Chennai-Bangalore,2024-08-12,N006,0.0826,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2024-08-12,N008,0.0799,False,applies to a different route
+Chennai-Bangalore,2024-08-12,N002,0.0,False,applies to a different route
+Chennai-Bangalore,2024-08-12,N003,0.0,False,note window does not overlap this week
+Chennai-Bangalore,2024-08-12,N004,0.0,False,note concerns routes outside this dataset
+Chennai-Bangalore,2024-08-12,N005,0.0,False,applies to a different route
+Chennai-Bangalore,2025-02-17,N009,0.4691,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-02-17,N001,0.3709,False,note window does not overlap this week
+Chennai-Bangalore,2025-02-17,N006,0.0826,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-02-17,N008,0.0799,False,applies to a different route
+Chennai-Bangalore,2025-02-17,N002,0.0,False,applies to a different route
+Chennai-Bangalore,2025-02-17,N003,0.0,False,note window does not overlap this week
+Chennai-Bangalore,2025-02-17,N004,0.0,False,note concerns routes outside this dataset
+Chennai-Bangalore,2025-02-17,N005,0.0,False,applies to a different route
+Chennai-Bangalore,2025-02-24,N009,0.4691,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-02-24,N001,0.3709,True,passes all checks
+Chennai-Bangalore,2025-02-24,N006,0.0826,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-02-24,N008,0.0799,False,applies to a different route
+Chennai-Bangalore,2025-02-24,N002,0.0,False,applies to a different route
+Chennai-Bangalore,2025-02-24,N003,0.0,False,note window does not overlap this week
+Chennai-Bangalore,2025-02-24,N004,0.0,False,note concerns routes outside this dataset
+Chennai-Bangalore,2025-02-24,N005,0.0,False,applies to a different route
+Chennai-Bangalore,2025-03-03,N009,0.4691,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-03-03,N001,0.3709,True,passes all checks
+Chennai-Bangalore,2025-03-03,N006,0.0826,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-03-03,N008,0.0799,False,applies to a different route
+Chennai-Bangalore,2025-03-03,N002,0.0,False,applies to a different route
+Chennai-Bangalore,2025-03-03,N003,0.0,False,note window does not overlap this week
+Chennai-Bangalore,2025-03-03,N004,0.0,False,note concerns routes outside this dataset
+Chennai-Bangalore,2025-03-03,N005,0.0,False,applies to a different route
+Chennai-Bangalore,2025-03-10,N009,0.4691,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-03-10,N001,0.3709,False,note window does not overlap this week
+Chennai-Bangalore,2025-03-10,N006,0.0826,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-03-10,N008,0.0799,False,applies to a different route
+Chennai-Bangalore,2025-03-10,N002,0.0,False,applies to a different route
+Chennai-Bangalore,2025-03-10,N003,0.0,False,note window does not overlap this week
+Chennai-Bangalore,2025-03-10,N004,0.0,False,note concerns routes outside this dataset
+Chennai-Bangalore,2025-03-10,N005,0.0,False,applies to a different route
+Chennai-Bangalore,2025-03-17,N009,0.4691,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-03-17,N001,0.3709,False,note window does not overlap this week
+Chennai-Bangalore,2025-03-17,N006,0.0826,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-03-17,N008,0.0799,False,applies to a different route
+Chennai-Bangalore,2025-03-17,N002,0.0,False,applies to a different route
+Chennai-Bangalore,2025-03-17,N003,0.0,False,note window does not overlap this week
+Chennai-Bangalore,2025-03-17,N004,0.0,False,note concerns routes outside this dataset
+Chennai-Bangalore,2025-03-17,N005,0.0,False,applies to a different route
+Chennai-Bangalore,2025-05-05,N009,0.4691,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-05-05,N001,0.3709,False,note window does not overlap this week
+Chennai-Bangalore,2025-05-05,N006,0.0826,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-05-05,N008,0.0799,False,applies to a different route
+Chennai-Bangalore,2025-05-05,N002,0.0,False,applies to a different route
+Chennai-Bangalore,2025-05-05,N003,0.0,False,wide-scope note cannot explain a gap versus similar routes
+Chennai-Bangalore,2025-05-05,N004,0.0,False,note concerns routes outside this dataset
+Chennai-Bangalore,2025-05-05,N005,0.0,False,applies to a different route
+Chennai-Bangalore,2025-05-12,N009,0.4691,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-05-12,N001,0.3709,False,note window does not overlap this week
+Chennai-Bangalore,2025-05-12,N006,0.0826,False,"note effect is 'none', not a cost increase"
+Chennai-Bangalore,2025-05-12,N008,0.0799,False,applies to a different route
+Chennai-Bangalore,2025-05-12,N002,0.0,False,applies to a different route
+Chennai-Bangalore,2025-05-12,N003,0.0,False,note window does not overlap this week
+Chennai-Bangalore,2025-05-12,N004,0.0,False,note concerns routes outside this dataset
+Chennai-Bangalore,2025-05-12,N005,0.0,False,applies to a different route
+Delhi-Chennai,2024-04-08,N009,0.1806,False,applies to a different route
+Delhi-Chennai,2024-04-08,N007,0.1777,False,applies to a different route
+Delhi-Chennai,2024-04-08,N005,0.1773,False,applies to a different route
+Delhi-Chennai,2024-04-08,N001,0.1428,False,applies to a different route
+Delhi-Chennai,2024-04-08,N006,0.0953,False,"note effect is 'none', not a cost increase"
+Delhi-Chennai,2024-04-08,N008,0.0922,False,applies to a different route
+Delhi-Chennai,2024-04-08,N002,0.0,False,applies to a different route
+Delhi-Chennai,2024-04-08,N003,0.0,False,note window does not overlap this week
+Delhi-Chennai,2024-06-10,N009,0.1806,False,applies to a different route
+Delhi-Chennai,2024-06-10,N007,0.1777,False,applies to a different route
+Delhi-Chennai,2024-06-10,N005,0.1773,False,applies to a different route
+Delhi-Chennai,2024-06-10,N001,0.1428,False,applies to a different route
+Delhi-Chennai,2024-06-10,N006,0.0953,False,"note effect is 'none', not a cost increase"
+Delhi-Chennai,2024-06-10,N008,0.0922,False,applies to a different route
+Delhi-Chennai,2024-06-10,N002,0.0,False,applies to a different route
+Delhi-Chennai,2024-06-10,N003,0.0,False,note window does not overlap this week
+Delhi-Chennai,2024-10-21,N009,0.1806,False,applies to a different route
+Delhi-Chennai,2024-10-21,N007,0.1777,False,applies to a different route
+Delhi-Chennai,2024-10-21,N005,0.1773,False,applies to a different route
+Delhi-Chennai,2024-10-21,N001,0.1428,False,applies to a different route
+Delhi-Chennai,2024-10-21,N006,0.0953,False,"note effect is 'none', not a cost increase"
+Delhi-Chennai,2024-10-21,N008,0.0922,False,applies to a different route
+Delhi-Chennai,2024-10-21,N002,0.0,False,applies to a different route
+Delhi-Chennai,2024-10-21,N003,0.0,False,note window does not overlap this week
+Delhi-Chennai,2025-01-27,N009,0.1806,False,applies to a different route
+Delhi-Chennai,2025-01-27,N007,0.1777,False,applies to a different route
+Delhi-Chennai,2025-01-27,N005,0.1773,False,applies to a different route
+Delhi-Chennai,2025-01-27,N001,0.1428,False,applies to a different route
+Delhi-Chennai,2025-01-27,N006,0.0953,False,"note effect is 'none', not a cost increase"
+Delhi-Chennai,2025-01-27,N008,0.0922,False,applies to a different route
+Delhi-Chennai,2025-01-27,N002,0.0,False,applies to a different route
+Delhi-Chennai,2025-01-27,N003,0.0,False,note window does not overlap this week
+Delhi-Chennai,2025-02-17,N009,0.1806,False,applies to a different route
+Delhi-Chennai,2025-02-17,N007,0.1777,False,applies to a different route
+Delhi-Chennai,2025-02-17,N005,0.1773,False,applies to a different route
+Delhi-Chennai,2025-02-17,N001,0.1428,False,applies to a different route
+Delhi-Chennai,2025-02-17,N006,0.0953,False,"note effect is 'none', not a cost increase"
+Delhi-Chennai,2025-02-17,N008,0.0922,False,applies to a different route
+Delhi-Chennai,2025-02-17,N002,0.0,False,applies to a different route
+Delhi-Chennai,2025-02-17,N003,0.0,False,note window does not overlap this week
+Delhi-Jaipur,2024-11-11,N007,0.5312,False,"note effect is 'none', not a cost increase"
+Delhi-Jaipur,2024-11-11,N005,0.1406,False,applies to a different route
+Delhi-Jaipur,2024-11-11,N006,0.0756,False,"note effect is 'none', not a cost increase"
+Delhi-Jaipur,2024-11-11,N008,0.0731,False,applies to a different route
+Delhi-Jaipur,2024-11-11,N001,0.0,False,applies to a different route
+Delhi-Jaipur,2024-11-11,N002,0.0,False,applies to a different route
+Delhi-Jaipur,2024-11-11,N003,0.0,False,note window does not overlap this week
+Delhi-Jaipur,2024-11-11,N004,0.0,False,note concerns routes outside this dataset
+Delhi-Jaipur,2024-11-18,N007,0.5312,False,"note effect is 'none', not a cost increase"
+Delhi-Jaipur,2024-11-18,N005,0.1406,False,applies to a different route
+Delhi-Jaipur,2024-11-18,N006,0.0756,False,"note effect is 'none', not a cost increase"
+Delhi-Jaipur,2024-11-18,N008,0.0731,False,applies to a different route
+Delhi-Jaipur,2024-11-18,N001,0.0,False,applies to a different route
+Delhi-Jaipur,2024-11-18,N002,0.0,False,applies to a different route
+Delhi-Jaipur,2024-11-18,N003,0.0,False,note window does not overlap this week
+Delhi-Jaipur,2024-11-18,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Delhi,2025-05-12,N005,0.4963,False,"note effect is 'none', not a cost increase"
+Mumbai-Delhi,2025-05-12,N007,0.147,False,applies to a different route
+Mumbai-Delhi,2025-05-12,N002,0.1312,False,applies to a different route
+Mumbai-Delhi,2025-05-12,N006,0.0789,False,"note effect is 'none', not a cost increase"
+Mumbai-Delhi,2025-05-12,N008,0.0763,False,applies to a different route
+Mumbai-Delhi,2025-05-12,N001,0.0,False,applies to a different route
+Mumbai-Delhi,2025-05-12,N003,0.0,False,note window does not overlap this week
+Mumbai-Delhi,2025-05-12,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Delhi,2025-08-18,N005,0.4963,False,"note effect is 'none', not a cost increase"
+Mumbai-Delhi,2025-08-18,N007,0.147,False,applies to a different route
+Mumbai-Delhi,2025-08-18,N002,0.1312,False,applies to a different route
+Mumbai-Delhi,2025-08-18,N006,0.0789,False,"note effect is 'none', not a cost increase"
+Mumbai-Delhi,2025-08-18,N008,0.0763,False,applies to a different route
+Mumbai-Delhi,2025-08-18,N001,0.0,False,applies to a different route
+Mumbai-Delhi,2025-08-18,N003,0.0,False,note window does not overlap this week
+Mumbai-Delhi,2025-08-18,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Delhi,2025-09-22,N005,0.4963,False,"note effect is 'none', not a cost increase"
+Mumbai-Delhi,2025-09-22,N007,0.147,False,applies to a different route
+Mumbai-Delhi,2025-09-22,N002,0.1312,False,applies to a different route
+Mumbai-Delhi,2025-09-22,N006,0.0789,False,"note effect is 'none', not a cost increase"
+Mumbai-Delhi,2025-09-22,N008,0.0763,False,applies to a different route
+Mumbai-Delhi,2025-09-22,N001,0.0,False,applies to a different route
+Mumbai-Delhi,2025-09-22,N003,0.0,False,note window does not overlap this week
+Mumbai-Delhi,2025-09-22,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Delhi,2025-11-24,N005,0.4963,False,"note effect is 'none', not a cost increase"
+Mumbai-Delhi,2025-11-24,N007,0.147,False,applies to a different route
+Mumbai-Delhi,2025-11-24,N002,0.1312,False,applies to a different route
+Mumbai-Delhi,2025-11-24,N006,0.0789,False,"note effect is 'none', not a cost increase"
+Mumbai-Delhi,2025-11-24,N008,0.0763,False,applies to a different route
+Mumbai-Delhi,2025-11-24,N001,0.0,False,applies to a different route
+Mumbai-Delhi,2025-11-24,N003,0.0,False,note window does not overlap this week
+Mumbai-Delhi,2025-11-24,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Delhi,2025-12-22,N005,0.4963,False,"note effect is 'none', not a cost increase"
+Mumbai-Delhi,2025-12-22,N007,0.147,False,applies to a different route
+Mumbai-Delhi,2025-12-22,N002,0.1312,False,applies to a different route
+Mumbai-Delhi,2025-12-22,N006,0.0789,False,"note effect is 'none', not a cost increase"
+Mumbai-Delhi,2025-12-22,N008,0.0763,False,applies to a different route
+Mumbai-Delhi,2025-12-22,N001,0.0,False,applies to a different route
+Mumbai-Delhi,2025-12-22,N003,0.0,False,note window does not overlap this week
+Mumbai-Delhi,2025-12-22,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-01-01,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-01-01,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-01-01,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-01-01,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-01-01,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-01-01,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-01-01,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-01-01,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-01-08,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-01-08,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-01-08,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-01-08,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-01-08,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-01-08,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-01-08,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-01-08,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-01-15,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-01-15,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-01-15,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-01-15,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-01-15,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-01-15,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-01-15,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-01-15,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-01-22,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-01-22,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-01-22,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-01-22,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-01-22,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-01-22,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-01-22,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-01-22,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-02-19,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-02-19,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-02-19,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-02-19,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-02-19,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-02-19,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-02-19,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-02-19,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-03-04,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-03-04,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-03-04,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-03-04,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-03-04,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-03-04,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-03-04,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-03-04,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-03-18,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-03-18,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-03-18,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-03-18,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-03-18,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-03-18,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-03-18,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-03-18,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-03-25,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-03-25,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-03-25,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-03-25,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-03-25,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-03-25,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-03-25,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-03-25,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-04-01,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-04-01,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-04-01,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-04-01,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-04-01,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-04-01,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-04-01,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-04-01,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-04-08,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-04-08,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-04-08,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-04-08,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-04-08,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-04-08,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-04-08,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-04-08,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-04-15,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-04-15,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-04-15,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-04-15,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-04-15,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-04-15,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-04-15,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-04-15,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-04-29,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-04-29,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-04-29,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-04-29,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-04-29,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-04-29,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-04-29,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-04-29,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-05-06,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-05-06,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-05-06,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-05-06,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-05-06,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-05-06,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-05-06,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-05-06,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-05-27,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-05-27,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-05-27,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-05-27,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-05-27,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-05-27,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-05-27,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-05-27,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-06-10,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-06-10,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-06-10,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-06-10,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-06-10,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-06-10,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-06-10,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-06-10,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-07-08,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-07-08,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-07-08,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-07-08,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-07-08,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-07-08,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-07-08,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-07-08,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-07-15,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-07-15,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-07-15,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-07-15,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-07-15,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-07-15,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-07-15,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-07-15,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-07-22,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-07-22,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-07-22,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-07-22,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-07-22,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-07-22,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-07-22,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-07-22,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-08-05,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-08-05,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-08-05,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-08-05,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-08-05,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-08-05,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-08-05,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-08-05,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-08-12,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-08-12,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-08-12,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-08-12,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-08-12,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-08-12,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-08-12,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-08-12,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-08-19,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-08-19,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-08-19,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-08-19,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-08-19,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-08-19,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-08-19,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-08-19,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-09-23,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-09-23,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-09-23,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-09-23,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-09-23,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-09-23,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-09-23,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-09-23,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-09-30,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-09-30,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-09-30,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-09-30,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-09-30,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-09-30,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-09-30,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-09-30,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-10-07,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-10-07,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-10-07,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-10-07,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-10-07,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-10-07,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-10-07,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-10-07,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-10-28,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-10-28,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-10-28,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-10-28,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-10-28,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-10-28,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-10-28,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-10-28,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-11-04,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-11-04,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-11-04,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-11-04,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-11-04,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-11-04,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-11-04,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-11-04,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-11-25,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-11-25,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-11-25,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-11-25,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-11-25,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-11-25,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-11-25,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-11-25,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-12-02,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-12-02,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-12-02,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-12-02,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-12-02,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-12-02,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-12-02,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-12-02,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-12-16,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-12-16,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-12-16,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-12-16,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-12-16,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-12-16,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-12-16,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-12-16,N007,0.0,False,applies to a different route
+Mumbai-Pune,2024-12-23,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2024-12-23,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2024-12-23,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2024-12-23,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2024-12-23,N001,0.0,False,applies to a different route
+Mumbai-Pune,2024-12-23,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2024-12-23,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2024-12-23,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-01-06,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-01-06,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-01-06,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-01-06,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-01-06,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-01-06,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-01-06,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-01-06,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-01-13,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-01-13,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-01-13,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-01-13,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-01-13,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-01-13,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-01-13,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-01-13,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-01-20,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-01-20,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-01-20,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-01-20,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-01-20,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-01-20,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-01-20,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-01-20,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-02-03,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-02-03,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-02-03,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-02-03,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-02-03,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-02-03,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-02-03,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-02-03,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-02-10,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-02-10,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-02-10,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-02-10,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-02-10,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-02-10,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-02-10,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-02-10,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-02-17,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-02-17,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-02-17,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-02-17,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-02-17,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-02-17,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-02-17,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-02-17,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-02-24,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-02-24,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-02-24,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-02-24,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-02-24,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-02-24,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-02-24,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-02-24,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-03-10,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-03-10,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-03-10,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-03-10,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-03-10,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-03-10,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-03-10,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-03-10,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-03-17,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-03-17,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-03-17,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-03-17,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-03-17,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-03-17,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-03-17,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-03-17,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-04-07,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-04-07,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-04-07,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-04-07,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-04-07,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-04-07,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-04-07,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-04-07,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-04-14,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-04-14,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-04-14,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-04-14,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-04-14,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-04-14,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-04-14,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-04-14,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-04-28,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-04-28,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-04-28,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-04-28,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-04-28,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-04-28,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-04-28,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-04-28,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-05-12,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-05-12,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-05-12,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-05-12,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-05-12,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-05-12,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-05-12,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-05-12,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-06-02,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-06-02,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-06-02,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-06-02,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-06-02,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-06-02,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-06-02,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-06-02,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-06-16,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-06-16,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-06-16,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-06-16,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-06-16,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-06-16,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-06-16,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-06-16,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-06-23,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-06-23,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-06-23,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-06-23,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-06-23,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-06-23,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-06-23,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-06-23,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-07-07,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-07-07,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-07-07,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-07-07,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-07-07,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-07-07,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-07-07,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-07-07,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-07-21,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-07-21,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-07-21,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-07-21,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-07-21,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-07-21,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-07-21,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-07-21,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-08-04,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-08-04,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-08-04,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-08-04,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-08-04,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-08-04,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-08-04,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-08-04,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-08-18,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-08-18,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-08-18,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-08-18,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-08-18,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-08-18,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-08-18,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-08-18,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-08-25,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-08-25,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-08-25,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-08-25,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-08-25,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-08-25,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-08-25,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-08-25,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-09-08,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-09-08,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-09-08,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-09-08,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-09-08,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-09-08,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-09-08,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-09-08,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-09-15,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-09-15,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-09-15,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-09-15,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-09-15,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-09-15,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-09-15,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-09-15,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-09-22,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-09-22,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-09-22,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-09-22,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-09-22,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-09-22,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-09-22,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-09-22,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-09-29,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-09-29,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-09-29,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-09-29,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-09-29,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-09-29,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-09-29,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-09-29,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-10-06,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-10-06,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-10-06,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-10-06,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-10-06,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-10-06,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-10-06,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-10-06,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-10-13,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-10-13,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-10-13,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-10-13,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-10-13,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-10-13,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-10-13,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-10-13,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-10-20,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-10-20,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-10-20,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-10-20,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-10-20,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-10-20,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-10-20,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-10-20,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-10-27,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-10-27,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-10-27,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-10-27,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-10-27,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-10-27,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-10-27,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-10-27,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-11-03,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-11-03,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-11-03,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-11-03,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-11-03,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-11-03,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-11-03,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-11-03,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-11-10,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-11-10,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-11-10,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-11-10,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-11-10,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-11-10,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-11-10,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-11-10,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-11-17,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-11-17,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-11-17,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-11-17,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-11-17,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-11-17,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-11-17,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-11-17,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-11-24,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-11-24,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-11-24,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-11-24,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-11-24,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-11-24,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-11-24,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-11-24,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-12-01,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-12-01,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-12-01,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-12-01,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-12-01,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-12-01,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-12-01,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-12-01,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-12-08,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-12-08,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-12-08,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-12-08,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-12-08,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-12-08,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-12-08,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-12-08,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-12-15,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-12-15,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-12-15,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-12-15,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-12-15,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-12-15,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-12-15,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-12-15,N007,0.0,False,applies to a different route
+Mumbai-Pune,2025-12-22,N005,0.2171,False,applies to a different route
+Mumbai-Pune,2025-12-22,N002,0.1942,False,applies to a different route
+Mumbai-Pune,2025-12-22,N006,0.1168,False,"note effect is 'none', not a cost increase"
+Mumbai-Pune,2025-12-22,N008,0.1129,False,applies to a different route
+Mumbai-Pune,2025-12-22,N001,0.0,False,applies to a different route
+Mumbai-Pune,2025-12-22,N003,0.0,False,note window does not overlap this week
+Mumbai-Pune,2025-12-22,N004,0.0,False,note concerns routes outside this dataset
+Mumbai-Pune,2025-12-22,N007,0.0,False,applies to a different route

@@ -1,0 +1,60 @@
+{
+  "calls": [
+    {
+      "note_id": "N001",
+      "input_tokens": 426,
+      "output_tokens": 153
+    },
+    {
+      "note_id": "N002",
+      "input_tokens": 413,
+      "output_tokens": 149
+    },
+    {
+      "note_id": "N003",
+      "input_tokens": 407,
+      "output_tokens": 142
+    },
+    {
+      "note_id": "N004",
+      "input_tokens": 408,
+      "output_tokens": 96
+    },
+    {
+      "note_id": "N005",
+      "input_tokens": 408,
+      "output_tokens": 117
+    },
+    {
+      "note_id": "N006",
+      "input_tokens": 405,
+      "output_tokens": 82
+    },
+    {
+      "note_id": "N007",
+      "input_tokens": 407,
+      "output_tokens": 98
+    },
+    {
+      "note_id": "N008",
+      "input_tokens": 409,
+      "output_tokens": 94
+    },
+    {
+      "note_id": "N009",
+      "input_tokens": 405,
+      "output_tokens": 92
+    },
+    {
+      "note_id": "N010",
+      "input_tokens": 408,
+      "output_tokens": 97
+    }
+  ],
+  "model": "openai/gpt-oss-20b",
+  "temperature": 0,
+  "num_calls": 10,
+  "total_input_tokens": 4096,
+  "total_output_tokens": 1120,
+  "estimated_cost_usd": 0.00097
+}

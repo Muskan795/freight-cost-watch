@@ -1,0 +1,6 @@
+
+route,week_of,expected_verdict,expected_note_id
+Chennai-Bangalore,2025-02-24,justified,N001
+Chennai-Bangalore,2025-03-03,justified,N001
+Mumbai-Delhi,2025-05-12,unexplained,
+Chennai-Bangalore,2025-03-17,unexplained,

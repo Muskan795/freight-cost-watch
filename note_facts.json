@@ -1,0 +1,104 @@
+{
+  "N001": {
+    "date_basis": "explicit",
+    "effect": "increase",
+    "end": "2025-03-08",
+    "evidence": "Heavy flooding on the Chennai-Bangalore highway disrupted normal truck movement from Feb 24 to Mar 8, forcing longer detours and higher trip costs.",
+    "in_dataset": true,
+    "needs_review": false,
+    "open_ended": false,
+    "start": "2025-02-24"
+  },
+  "N002": {
+    "date_basis": "inferred",
+    "effect": "increase",
+    "end": null,
+    "evidence": "A regional festival week saw a temporary surcharge applied by transporters on the Ahmedabad-Mumbai corridor due to high demand and limited truck availability.",
+    "in_dataset": true,
+    "needs_review": false,
+    "open_ended": false,
+    "start": null
+  },
+  
+"N003": {
+    "date_basis": "explicit",
+    "effect": "increase",
+    "end": "2025-05-11",
+    "evidence": "Diesel prices rose nationwide starting this week, pushing up transportation costs across all routes",
+    "in_dataset": true,
+    "needs_review": false,
+    "open_ended": false,
+    "start": "2025-05-05"
+},
+
+  "N004": {
+    "date_basis": "explicit",
+    "effect": "none",
+    "end": null,
+    "evidence": "the affected routes are not part of this dataset",
+    "in_dataset": false,
+    "needs_review": false,
+    "open_ended": false,
+    "start": null
+  },
+  "N005": {
+    "date_basis": "explicit",
+    "effect": "none",
+    "end": null,
+    "evidence": "Scheduled highway maintenance work between Mumbai and Delhi caused minor delays for about a week; costs were not significantly affected.",
+    "in_dataset": true,
+    "needs_review": false,
+    "open_ended": false,
+    "start": null
+  },
+  "N006": {
+    "date_basis": "explicit",
+    "effect": "none",
+    "end": null,
+    "evidence": "no major disruptions reported",
+    "in_dataset": true,
+    "needs_review": false,
+    "open_ended": false,
+    "start": null
+  },
+  "N007": {
+    "date_basis": "explicit",
+    "effect": "none",
+    "end": null,
+    "evidence": "Local authorities announced improved road conditions on the Delhi-Jaipur stretch after resurfacing work was completed.",
+    "in_dataset": true,
+    "needs_review": false,
+    "open_ended": false,
+    "start": null
+  },
+  "N008": {
+    "date_basis": "explicit",
+    "effect": "none",
+    "end": null,
+    "evidence": "No significant disruptions were reported on the Kolkata-Bhubaneswar corridor this quarter; freight movement remained normal.",
+    "in_dataset": true,
+    "needs_review": false,
+    "open_ended": false,
+    "start": null
+  },
+  "N009": {
+    "date_basis": "explicit",
+    "effect": "none",
+    "end": null,
+    "evidence": "Highway authorities confirmed the Chennai-Bangalore route returned to normal conditions after flood-related repairs were completed.",
+    "in_dataset": true,
+    "needs_review": false,
+    "open_ended": false,
+    "start": null
+  },
+  "N010": {
+    "date_basis": "explicit",
+    "effect": "none",
+    "end": null,
+    "evidence": "compliance costs were absorbed by transporters without a rate change",
+    "in_dataset": true,
+    "needs_review": false,
+    "open_ended": false,
+    "start": null
+  }
+}
